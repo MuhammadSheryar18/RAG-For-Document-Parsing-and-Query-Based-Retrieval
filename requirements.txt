@@ -1,0 +1,12 @@
+huggingface_hub>=0.14.1
+gradio==3.50.2
+pymupdf==1.23.8
+newspaper3k==0.2.8
+nltk==3.8.1
+sentence-transformers==2.6.0
+faiss-cpu==1.8.0
+python-dotenv==1.0.1
+beautifulsoup4==4.12.3
+requests>=2.31.0 
+python-docx
+ijson==3.3.0
