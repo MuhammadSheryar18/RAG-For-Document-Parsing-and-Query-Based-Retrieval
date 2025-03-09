@@ -5,7 +5,7 @@ A robust document-based Question Answering system that leverages RAG (Retrieval 
 ## System Architecture
 
 ```mermaid
-graph TD
+flowchart TD
     A[Document Upload] --> B[Document Processor]
     B --> C[Text Chunks]
     C --> D[Embedding Generator]
